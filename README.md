@@ -19,10 +19,3 @@ This project performs basic car detection using a webcam feed with OpenCV's pre-
 - OpenCV
 
 ---
-
-## 📁 Project Structure
-
-car-detection/
-├── haarcascade_car.xml # Pre-trained Haar cascade file for car detection
-├── car_detection.py # Main Python script
-└── README.md # Project documentation
